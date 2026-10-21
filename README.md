@@ -52,7 +52,7 @@ The project began with the design of an Entity-Relationship Model, defining the 
 
 The model was designed to centralize operational information while maintaining relationships between the different areas of the business.
 
-!image.png
+
 
 ---
 
@@ -60,7 +60,7 @@ The model was designed to centralize operational information while maintaining r
 
 The database includes different SQL components designed to support operational management and analysis.
 
-!image.png
+
 
 ### Views
 
